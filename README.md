@@ -1,4 +1,4 @@
-## Netlify URL: https://majestic-mandazi-280088.netlify.app/
+## Netlify URL: https://majestic-mandazi-280088.netlify.app
 
 ## EndPoint: 
 
