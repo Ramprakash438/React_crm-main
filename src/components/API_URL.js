@@ -1,3 +1,3 @@
 //Heroku URL
 
-export const API_URL = "https://crm--app.herokuapp.com/"
+export const API_URL = "http://localhost"
