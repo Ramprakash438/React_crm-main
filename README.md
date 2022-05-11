@@ -1,4 +1,4 @@
-## Netlify URL: https://inspiring-ramanujan-6d5121.netlify.app
+## Netlify URL: https://majestic-mandazi-280088.netlify.app
 
 ## EndPoint: 
 
